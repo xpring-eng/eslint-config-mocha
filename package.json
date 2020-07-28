@@ -1,6 +1,6 @@
 {
   "name": "@xpring-eng/eslint-config-mocha",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A ESLint configuration for Mocha tests",
   "keywords": [
     "eslint",
