@@ -17,12 +17,12 @@
   "scripts": {},
   "devDependencies": {
     "@fintechstudios/eslint-plugin-chai-as-promised": "^3.0.2",
-    "eslint": "^7.5.0",
+    "eslint": "^7.28.0",
     "eslint-plugin-mocha": "^7.0.1"
   },
   "peerDependencies": {
     "@fintechstudios/eslint-plugin-chai-as-promised": "^3.0.2",
-    "eslint": "^7.5.0",
+    "eslint": "^7.28.0",
     "eslint-plugin-mocha": "^7.0.1"
   }
 }
